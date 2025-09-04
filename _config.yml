@@ -1,0 +1,24 @@
+title: "Yang Hu's AI Portfolio"
+description: "人工智能 · 强化学习 · 项目展示 · 简历 · 博客"
+baseurl: "" 
+url: "https://hy888max.github.io"
+
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+author:
+  name: "Yang Hu"
+  avatar: "/assets/images/avatar.png"
+  bio: "AI student @ University of Alberta"
+  location: "Canada"
+
+
